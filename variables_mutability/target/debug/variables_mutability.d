@@ -1,0 +1,1 @@
+C:\Users\marti\OneDrive\Radna\ površina\Rust\rust_walkthrough\variables_mutability\target\debug\variables_mutability.exe: C:\Users\marti\OneDrive\Radna\ površina\Rust\rust_walkthrough\variables_mutability\src\main.rs

@@ -1,0 +1,1 @@
+C:\Users\marti\OneDrive\Radna\ površina\Rust\rust_walkthrough\advanced_walkthrough\target\debug\advanced_walkthrough.exe: C:\Users\marti\OneDrive\Radna\ površina\Rust\rust_walkthrough\advanced_walkthrough\src\main.rs
